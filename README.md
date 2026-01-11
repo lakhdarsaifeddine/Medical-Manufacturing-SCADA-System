@@ -222,7 +222,7 @@ Ensure you have the following installed on your development machine:
    bun install
    ```
 
-   Or using npm:
+ 
    ```bash
    npm install
    ```
